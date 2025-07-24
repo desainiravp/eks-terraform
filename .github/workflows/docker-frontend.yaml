@@ -5,7 +5,7 @@ on:
     paths:
       - 'frontend/**'
     branches:
-      - main  # or 'master'
+      - master  # or 'master'
 
 jobs:
   build-and-push:
